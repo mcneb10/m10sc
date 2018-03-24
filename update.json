@@ -1,0 +1,8 @@
+{
+	"name": "Random Stuff",
+	"version": "1.1",
+	"changelog": [
+		"+Added update checker"
+	],
+	"download": "https://github.com/mcneb10/m10sc"
+}
