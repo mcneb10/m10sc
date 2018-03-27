@@ -58,7 +58,8 @@ public class MAIN_CLASS {
 	 public static final String CLIENT_PROXY = "mcneb10stuff.mod.proxy.ClientProxy";
 	 public static final String SERVER_PROXY = "mcneb10stuff.mod.proxy.CommonProxy";
 
-	 
+	//all credit for annotation, interface, enum, and class textures goes to eclipse 
+	
 }
 		
 	
