@@ -44,7 +44,7 @@ public class MAIN_CLASS {
 	    
 	    @EventHandler
 	    public void init(FMLInitializationEvent event) {
-	    
+	     proxy.registerModelBakeryVariants();
 	    	
 	    }
 	    
