@@ -39,7 +39,6 @@ public class MAIN_CLASS {
 	    	MW1FItems.register();
 	    	
 	    	proxy.registerRenders();
-	    	proxy.registerTileEnties();
 	    }
 	    
 	    @EventHandler
